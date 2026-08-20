@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: two-wheelers
-        image: 165317185480.dkr.ecr.us-east-1.amazonaws.com/shopping-site-two-wheelers:20838981efbe36df626953bdaac0fc92bade412a
+        image: 165317185480.dkr.ecr.us-east-1.amazonaws.com/shopping-site-two-wheelers:11615c0318aa0e64afc152b929c541c4a6ef0e57
         ports:
         - containerPort: 80
 ---
